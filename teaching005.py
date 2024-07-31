@@ -15,4 +15,4 @@ def bubble_sort(arr):
 # 测试函数
 arr = [64, 34, 25, 12, 22, 11, 90]
 bubble_sort(arr)
-print ("排序
+print ("排序后的数组是：")
